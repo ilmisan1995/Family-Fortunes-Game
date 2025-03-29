@@ -1,0 +1,25 @@
+[
+    {
+        "question": "Sebutkan sesuatu yang biasa ditemukan di dapur",
+        "answers": [
+            {"text": "Piring", "points": 40},
+            {"text": "Sendok", "points": 25},
+            {"text": "Kompor", "points": 15},
+            {"text": "Kulkas", "points": 10},
+            {"text": "Pisau", "points": 5},
+            {"text": "Gelas", "points": 3},
+            {"text": "Rice Cooker", "points": 2},
+            {"text": "Wajan", "points": 1}
+        ]
+    },
+    {
+        "question": "Sebutkan hewan yang bisa berenang",
+        "answers": [
+            {"text": "Ikan", "points": 50},
+            {"text": "Bebek", "points": 30},
+            {"text": "Katak", "points": 10},
+            {"text": "Buaya", "points": 5},
+            {"text": "Pinguin", "points": 3}
+        ]
+    }
+]
