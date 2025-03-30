@@ -44,7 +44,7 @@ for i, ans in enumerate(current_question["answers"]):
     if revealed_answers[i]:
         draw_text(f"{i+1}. {ans['text']} - {ans['points']} pts", 100, 100 + i * 40)
     else:
-        draw_text(f"{i+1}. ______ --", 100, 100 + i * 40)
+        draw_text(f"{i+1}. ______  _", 100, 100 + i * 40)
 
 # Event Handling
 for event in pygame.event.get():
